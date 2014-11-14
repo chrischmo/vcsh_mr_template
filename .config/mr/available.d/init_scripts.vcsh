@@ -1,0 +1,2 @@
+[$HOME/.config/vcsh/repo.d/init_scripts.git]
+checkout = vcsh clone git@github.com:chrischmo/init_scripts.git init_scripts
